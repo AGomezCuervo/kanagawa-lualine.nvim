@@ -1,3 +1,3 @@
 ## Kanagawa-lualine
 ### Dragon Theme
-This is a simple Nevim Lazy lualine config with the Kanagawa-Dragon colorscheme
+This is a simple Neovim lualine config with the Kanagawa-Dragon colorscheme.
